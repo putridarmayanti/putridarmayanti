@@ -60,8 +60,8 @@ ol::before, ol::after{content:''; display:block; overflow:hidden; visibility:hid
 
 .title > h2 {font-size: 23px; text-align: left;color: var(--color-seccond);}
 .info > *{margin: 20px 0;}
-.info > .name{color: #9a6e6a; font-family: "Fredoka One",Sans-serif; font-size: 66px; font-weight: 200;margin: 20px 0 0 0;}
-.info > .name > h2 > span{color: #89ae9d;}
+.info > .name{color: #9a6e6a; font-family: "Fredoka One",Sans-serif; font-size: 55px; font-weight: 200;margin: 20px 0 0 0;}
+.info > .name > h2 > div{color: #89ae9d;}
 .info > .name-allianz {color: #ecc8a7; font-size: 46px; font-weight: 200;margin: 0;}
 
 .list-text > p{font-size: 18px; font-weight: 100;font-family: Roboto;}
