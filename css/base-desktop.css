@@ -1,0 +1,3 @@
+.full-site > span{grid-template-columns: 1fr 1fr;}
+.sosmed > span{grid-template-columns: 1fr 1fr;}
+.list-sosmed > a:hover {background: #89ae9d; color: #fff; }
